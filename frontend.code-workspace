@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"frontend.project.sourcePaths": [
+			
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}

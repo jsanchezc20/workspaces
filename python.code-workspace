@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.project.sourcePaths": [
+			"./python/HelloWorld/",
+			"./python/Factorial/"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}

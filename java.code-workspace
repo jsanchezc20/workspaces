@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "java/HelloWorld"
+		},
+		{
+			"path": "java/SampleProject"
+		},
+		{
+			"path": "java/M5_test1"
+		},
+		{
+			"path": "java/M5_test2"
+		},
+		{
+			"path": "java/herencia-polimorfisme-i-excepcions-amb-java-jsanchezc20"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src",
+			""
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}
