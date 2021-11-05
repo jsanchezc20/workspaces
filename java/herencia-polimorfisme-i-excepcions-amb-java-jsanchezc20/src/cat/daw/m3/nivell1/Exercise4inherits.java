@@ -9,7 +9,7 @@ public class Exercise4inherits extends Exercise4 {
 	 * @param paramThree
 	 * @throws Exception
 	*/
-	public void overrideMethod(String paramOne, int paramTwo, boolean paramThree) throws Exception {
+	public void overrideMethod(String paramOne, int paramTwo, boolean paramThree) {
 		System.out.println(
 			paramOne + 
 			paramTwo + 

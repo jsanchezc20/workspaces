@@ -8,11 +8,11 @@ public class App {
 	}
 
 	// Exercici 1.2 Mètode
-	static void methodOne() throws Exception{
+	static void methodOne() {
 		System.out.println("Crida al mètode de la classe App.\n");
 	}
 
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) {
 		
 		// Exercici 1
 		System.out.println("\n* * * Inici Exercici 1 * * *\n");

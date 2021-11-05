@@ -24,9 +24,8 @@ public class Frog extends Amphibian implements Speakable{
 
 	/** Exercici 8
 	 * @param jumps
-	 * @throws Exception
 	 */
-	public void jump(int jumps) throws Exception {
+	public void jump(int jumps) {
 		try {
 			if (jumps > 3) {
 				throw new Exception("Error: Un gripau no pot saltar més de 3 vegades seguides ["+ jumps +" salts].\n");
