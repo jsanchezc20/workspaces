@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "java/SampleProject",
         "java/M5_test2/src",
+        "java/M5_test1/src",
         "java/HelloWorld",
-        "java/M5_test1/src"
+        "java/herencia-polimorfisme-i-excepcions-amb-java-jsanchezc20/src/cat/daw/m3/nivell1"
     ]
 }
